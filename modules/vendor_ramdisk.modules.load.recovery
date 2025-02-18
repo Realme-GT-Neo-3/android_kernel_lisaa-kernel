@@ -10,6 +10,8 @@ aee_aed.ko
 monitor_hang.ko
 aee_hangdet.ko
 mtk_printk_ctrl.ko
+zsmalloc.ko
+zram.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
@@ -224,11 +226,8 @@ haptic_feedback.ko
 sim_detect.ko
 wl2868c-regulator.ko
 uload_ind.ko
-load_track.ko
-oplus_wificapcenter.ko
 sec.ko
 mtk-socinfo.ko
-oplus_connectivity_sla.ko
 sg.ko
 emi-mpu-hook-v1.ko
 olc.ko

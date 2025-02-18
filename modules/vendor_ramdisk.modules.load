@@ -10,6 +10,8 @@ aee_aed.ko
 monitor_hang.ko
 aee_hangdet.ko
 mtk_printk_ctrl.ko
+zsmalloc.ko
+zram.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
@@ -59,7 +61,6 @@ mtk_iommu.ko
 iommu_test.ko
 mtk_mm_heap.ko
 system_heap.ko
-oplus_boost_pool_mtk.ko
 oplus_mm_kevent.ko
 oplus_mm_kevent_fb.ko
 mtk-cmdq-drv-ext.ko
@@ -176,7 +177,6 @@ pmic_lbat_service.ko
 reset-ti-syscon.ko
 adsp.ko
 oplus_bsp_fw_update.ko
-oplus_bsp_mm_osvelte.ko
 oplus_bsp_tp_custom.ko
 oplus_bsp_tp_comon.ko
 oplus_bsp_tp_notify.ko
